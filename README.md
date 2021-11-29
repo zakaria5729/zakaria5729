@@ -1,5 +1,4 @@
-## Hello, I'm Zakaria Hossain
-<img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Views&color=a4c639&style=plastic" alt="zakaria5729" />
+## Hello, I'm Zakaria Hossain <img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Views&color=a4c639&style=plastic" alt="zakaria5729" />
 
 - 🔭 I’m currently working on Fiverr.
 - 🌱 I’m currently learning React.
