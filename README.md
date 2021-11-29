@@ -11,7 +11,6 @@
 - ⚡ Fun fact: I love exploring new technologies and try new things.  -->
 
 ### Languages & Tools
-
 <a href="https://www.java.com" target="_blank"> <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
 <a href="https://kotlinlang.org" target="_blank"><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" />
 <a href="https://dart.dev" target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" />
@@ -22,8 +21,8 @@
 <a href="https://www.mysql.com" target="_blank"> <img height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" />
 <a href="https://firebase.google.com" target="_blank"><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" />
 <a href="https://www.sqlite.org" target="_blank"> <img height="30" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Sqlite" />
-<a href="https://www.java.com" target="_blank"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
-<a href="https://www.java.com" target="_blank"> <img height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" />
+<a href="https://git-scm.com" target="_blank"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
+<a href="https://www.postman.com" target="_blank"> <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" />   <a href="https://www.linux.org" target="_blank"> <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" />
 
 
 
