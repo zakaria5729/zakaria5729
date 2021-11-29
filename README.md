@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love exploring new technologies and try new things.  -->
 
-### Languages & Tools
+### Tools & Technologies
 <a href="https://www.java.com" target="_blank"> <img height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
 <a href="https://kotlinlang.org" target="_blank"><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" />
 <a href="https://dart.dev" target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" />
@@ -24,14 +24,13 @@
 <a href="https://git-scm.com" target="_blank"> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" />
 <a href="https://www.postman.com" target="_blank"> <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" />   <a href="https://www.linux.org" target="_blank"> <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" />
 
-
-
-### Connect With Me
+### Connect
 [![Github: zakaria5729](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&color=white&logoColor=black)](https://github.com/zakaria5729)
 [![Twitter: zakaria5729](https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&color=white)](https://twitter.com/zakaria5729)
 [![Stackoverflow: zakaria5729](https://img.shields.io/badge/-Stackoverflow-white?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/8641776)
 [![Linkedin: zakaria5729](https://img.shields.io/badge/-Linkedin-white?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/zakaria5729)
 [![Quora: zakaria5729](https://img.shields.io/badge/-Quora-white?style=flat&logo=quora&logoColor=maroon)](https://www.quora.com/profile/Zakaria-Hossain-8)
+[![Medium: zakaria5729](https://img.shields.io/badge/-Medium-white?style=flat&logo=medium&logoColor=maroon)](https://medium.com/@zakaria5729)
 
 ### Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" /></p>
