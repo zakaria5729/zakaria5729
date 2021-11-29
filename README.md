@@ -26,7 +26,7 @@
 
 
 
-### Connect
+### Connect With Me
 [![Github: zakaria5729](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&color=white&logoColor=black)](https://github.com/zakaria5729)
 [![Twitter: zakaria5729](https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&color=white)](https://twitter.com/zakaria5729)
 [![Stackoverflow: zakaria5729](https://img.shields.io/badge/-Stackoverflow-white?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/8641776)
