@@ -25,7 +25,7 @@
 <a href="https://www.postman.com" target="_blank"> <img height="28" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></a>
 <a href="https://www.linux.org" target="_blank"> <img height="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>
 
-### Connect
+### Connect with me
 <!-- [![Github: zakaria5729](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&color=white&logoColor=black)](https://github.com/zakaria5729)
 [![Twitter: zakaria5729](https://img.shields.io/badge/-Twitter-white?style=flat&logo=twitter&color=white)](https://twitter.com/zakaria5729)
 [![Stackoverflow: zakaria5729](https://img.shields.io/badge/-Stackoverflow-white?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/8641776)
