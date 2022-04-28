@@ -1,14 +1,9 @@
 ## Hi, I'm Zakaria Hossain
 <img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Total Views&color=blue&style=flat" alt="zakaria5729" />
 
-<!-- - 🔭 I’m currently working on Fiverr.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with Kotlin.
-- 💬 Ask me about Android Application Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jamilxt/) - [Twitter](https://twitter.com/jamil_xt)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love exploring new technologies and try new things.  -->
+- 🌱 I’m currently learning Android Jetpack Compose, Flutter Riverpod.
+- 💬 Ask me about (Native) Android, Flutter, Spring Boot Development.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zakaria5729/) - [Twitter](https://twitter.com/zakaria5729)
 
 ### Tools & Technologies
 <a href="https://www.java.com" target="_blank"> <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></a>
