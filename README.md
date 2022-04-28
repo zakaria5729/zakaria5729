@@ -1,7 +1,7 @@
 ## Hi, I'm Zakaria Hossain
 <img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Total Views&color=blue&style=flat" alt="zakaria5729" />
 
-- 🌱 I’m currently learning Android Jetpack Compose, Flutter Riverpod.
+- 🌱 I’m currently learning Android Jetpack Compose, Flutter Riverpod & DSAlgo.
 - 💬 Ask me about (Native) Android, Flutter, Spring Boot Development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zakaria5729/) - [Twitter](https://twitter.com/zakaria5729)
 
