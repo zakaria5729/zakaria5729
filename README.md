@@ -39,6 +39,6 @@
 
 ##
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&locale=en&theme=dracula" alt="zakaria5729" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria5729&show_icons=true&locale=en&theme=dracula" alt="zakaria5729" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
 </p>
