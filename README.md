@@ -1,5 +1,4 @@
 ## Hi, I'm Zakaria Hossain
-<img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Total Views&color=blue&style=flat" alt="zakaria5729" />
 
 - 🌱 I’m currently learning Spring-Boot Microservice, DS-Algo, Dagger Android and Flutter Bloc.
 - 💬 Ask me about Java, Spring Boot, (Native) Android, Flutter Development.
@@ -32,5 +31,7 @@
 
 ##
 
-  <img src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
+<img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Profile Views&color=blue&style=flat" alt="zakaria5729" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
