@@ -30,8 +30,10 @@
 <a href="https://facebook.com/zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" alt="Facebook" /></a>
 
 ##
+<a href="https://stackexchange.com/users/11810170"><img src="https://stackexchange.com/users/flair/11810170.png" width="208" height="58" alt="profile for Zakaria Hossain on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Zakaria Hossain on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-<img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Profile Views&color=blue&style=flat" alt="zakaria5729" />
+<img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Profile Views&color=blue&style=for-the-badge" alt="zakaria5729" />
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
