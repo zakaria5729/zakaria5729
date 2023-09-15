@@ -7,9 +7,9 @@
 ##
 ### Tools & Technologies
 <a href="https://www.java.com" target="_blank"> <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" /></a>
 <a href="https://kotlinlang.org" target="_blank"><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" /></a>
 <a href="https://dart.dev" target="_blank"><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" /></a>
 <a href="https://www.android.com" target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" /></a>
 <a href="https://flutter.dev" target="_blank"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" /></a>
 <a href="https://www.postgresql.org" target="_blank"><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" /></a>
@@ -21,8 +21,8 @@
 <a href="https://www.linux.org" target="_blank"> <img height="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>
 
 ### Connect with me
-<a href="https://github.com/zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="Github" /></a>
 <a href="https://stackoverflow.com/users/8641776" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667" alt="Stack Overflow" /></a>
+<a href="https://github.com/zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="Github" /></a>
 <a href="https://twitter.com/zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="Linked In" /></a>
 <a href="https://www.quora.com/profile/Zakaria-Hossain-8" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/d91821b997572279bcda39224cd22ed45b90d9af1261d36a9520b0ba6f8d2d6f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f71756f72612e737667" alt="Quora" /></a>
