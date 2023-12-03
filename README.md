@@ -35,3 +35,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only)
