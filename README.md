@@ -1,4 +1,4 @@
-## Hi, I'm Zakaria Hossain
+### Hi, 👋 I'm Zakaria Hossain
 
 - 🌱 I’m currently learning Spring-Boot Microservice, DS-Algo, Dagger Android and Flutter Bloc.
 - 💬 Ask me about Java, Spring Boot, (Native) Android, Flutter Development.
