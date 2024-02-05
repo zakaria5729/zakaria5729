@@ -1,5 +1,4 @@
-## Hi, I'm Zakaria Hossain
-<img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Views&color=a4c639&style=plastic" alt="zakaria5729" />
+## Hi, I'm Zakaria Hossain    <img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Views:&color=blue&style=flat-square&abbreviated=true" alt="zakaria5729" />
 
 - 🌱 I’m currently learning Spring-Boot Microservice, DS-Algo, Dagger Android and Flutter Bloc.
 - 💬 Ask me about Java, Spring Boot, (Native) Android, Flutter Development.
@@ -21,17 +20,19 @@
 <a href="https://www.postman.com" target="_blank"> <img height="28" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></a>
 <a href="https://www.linux.org" target="_blank"> <img height="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>
 
-### Connect with me
-<a href="https://stackoverflow.com/users/8641776" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/ad1dcdc76b0be1423e54a791d31311e91e8e89bb8492be214cfc3390e24c323d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737461636b6f766572666c6f772e737667" alt="Stack Overflow" /></a>
-<a href="https://github.com/zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="Github" /></a>
-<a href="https://twitter.com/zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="Linked In" /></a>
-<a href="https://www.quora.com/profile/Zakaria-Hossain-8" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/d91821b997572279bcda39224cd22ed45b90d9af1261d36a9520b0ba6f8d2d6f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f71756f72612e737667" alt="Quora" /></a>
-<a href="https://medium.com/@zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" alt="Medium" /></a>
-<a href="https://facebook.com/zakaria5729" target="_blank"> <img height="31" width="40" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" alt="Facebook" /></a>
+### Find me at
+[![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&link=https://github.com/zakaria5729)](https://github.com/zakaria5729)
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logoColor=white&color=blue&logo=linkedin&link=https://www.linkedin.com/in/zakaria5729)](https://www.linkedin.com/in/zakaria5729)
+[![Stackoverflow](https://img.shields.io/badge/-stackoverflow-oarnge?style=flat-square&logo=stackoverflow&logoColor=white&color=orange&link=https://stackoverflow.com/users/8641776)](https://stackoverflow.com/users/8641776)
+[![Twitter](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&color=blue&link=https://twitter.com/zakaria5729)](https://twitter.com/zakaria5729)
+[![Quora](https://img.shields.io/badge/-quora-maroon?style=flat-square&logoColor=white&color=maroon&logo=quora&https://www.quora.com/profile/Zakaria-Hossain-8)](https://www.quora.com/profile/Zakaria-Hossain-8)
+[![Medium](https://img.shields.io/badge/-medium-black?style=flat-square&logo=medium&logoColor=white&color=black&link=https://medium.com/@zakaria5729)](https://medium.com/@zakaria5729)
+[![Gmail](https://img.shields.io/badge/-gmail-red?style=flat-square&logo=gmail&logoColor=white&color=red&link=mailto:zakariahossain143@gmail.com)](mailto:zakariahossain143@gmail.com)
+[![Facebook](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=facebook&logoColor=white&color=blue&link=https://medium.com/@zakaria5729)](https://facebook.com/zakaria5729)
 
 ##
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8641776)
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8641776) <img src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=30&bg_color=FFFFFF&icon_color=FFA500&title_color=FFA500&rank_icon=percentile&include_all_commits=true" alt="zakaria5729" />
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria5729&show_icons=true&border_radius=16" alt="zakaria5729" /> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&hide=html,css,php,c&langs_count=3&border_radius=16" alt="zakaria5729" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria5729&show_icons=true&locale=en" alt="zakaria5729" />
+
