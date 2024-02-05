@@ -31,8 +31,7 @@
 [![Facebook](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=facebook&logoColor=white&color=blue&link=https://medium.com/@zakaria5729)](https://facebook.com/zakaria5729)
 
 ##
-![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8641776) <img src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=30&bg_color=FFFFFF&icon_color=FFA500&title_color=FFA500&rank_icon=percentile&include_all_commits=true&card_width=350px" alt="zakaria5729" />
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8641776) <img src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=30&bg_color=FFFFFF&icon_color=FFA500&title_color=FFA500&rank_icon=percentile&include_all_commits=true" alt="zakaria5729" />
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria5729&show_icons=true&border_radius=16" alt="zakaria5729" /> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&hide=html,css,php,c&langs_count=3&border_radius=16&card_width=380px" alt="zakaria5729" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria5729&show_icons=true&border_radius=16" alt="zakaria5729" /> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&hide=html,css,php,c&langs_count=3&border_radius=16" alt="zakaria5729" />
 
