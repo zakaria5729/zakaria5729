@@ -1,8 +1,8 @@
 ### Hi, 👋 I'm Zakaria Hossain
 
-- 🌱 I’m currently learning Spring-Boot Microservice, DS-Algo, Dagger Android and Flutter Bloc.
-- 💬 Ask me about Java, Spring Boot, (Native) Android, Flutter Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zakaria5729/) | [Twitter](https://twitter.com/zakaria5729) | zakariahossain143@gmail.com
+- 🌱 I'm a Software Engineer with 4+ years of experience in design, development and analysis of Backend (Spring Boot), Android (Kotlin/Java) and Flutter app development. I’m currently learning Spring-Boot Microservice, DS-Algo, Dagger Android and Flutter Bloc.
+- 💬 Ask me about Spring Boot (Java), (Kotlin) Android (Kotlin) and Flutter (Dart).
+- 🔎 Search ```zakaria5729``` in google to know more about me
 
 ##
 ### Tools & Technologies
@@ -21,14 +21,12 @@
 <a href="https://www.linux.org" target="_blank"> <img height="31" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>
 
 ### Find me at
-[![Github](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&link=https://github.com/zakaria5729)](https://github.com/zakaria5729)
-[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logoColor=white&color=blue&logo=linkedin&link=https://www.linkedin.com/in/zakaria5729)](https://www.linkedin.com/in/zakaria5729)
-[![Stackoverflow](https://img.shields.io/badge/-stackoverflow-oarnge?style=flat-square&logo=stackoverflow&logoColor=white&color=orange&link=https://stackoverflow.com/users/8641776)](https://stackoverflow.com/users/8641776)
-[![Twitter](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=twitter&logoColor=white&color=blue&link=https://twitter.com/zakaria5729)](https://twitter.com/zakaria5729)
-[![Quora](https://img.shields.io/badge/-quora-maroon?style=flat-square&logoColor=white&color=maroon&logo=quora&https://www.quora.com/profile/Zakaria-Hossain-8)](https://www.quora.com/profile/Zakaria-Hossain-8)
-[![Medium](https://img.shields.io/badge/-medium-black?style=flat-square&logo=medium&logoColor=white&color=black&link=https://medium.com/@zakaria5729)](https://medium.com/@zakaria5729)
-[![Gmail](https://img.shields.io/badge/-gmail-red?style=flat-square&logo=gmail&logoColor=white&color=red&link=mailto:zakariahossain143@gmail.com)](mailto:zakariahossain143@gmail.com)
-[![Facebook](https://img.shields.io/badge/-facebook-blue?style=flat-square&logo=facebook&logoColor=white&color=blue&link=https://medium.com/@zakaria5729)](https://facebook.com/zakaria5729)
+[![Github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&link=https://github.com/zakaria5729)](https://github.com/zakaria5729)
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logoColor=white&color=blue&logo=linkedin&link=https://www.linkedin.com/in/zakaria5729)](https://www.linkedin.com/in/zakaria5729)
+[![Stackoverflow](https://img.shields.io/badge/-stackoverflow-oarnge?style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange&link=https://stackoverflow.com/users/8641776)](https://stackoverflow.com/users/8641776)
+[![Twitter](https://img.shields.io/badge/-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=blue&link=https://twitter.com/zakaria5729)](https://twitter.com/zakaria5729)
+[![Quora](https://img.shields.io/badge/-quora-maroon?style=for-the-badge&logoColor=white&color=maroon&logo=quora&https://www.quora.com/profile/Zakaria-Hossain-8)](https://www.quora.com/profile/Zakaria-Hossain-8)
+[![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium&logoColor=white&color=black&link=https://medium.com/@zakaria5729)](https://medium.com/@zakaria5729)
 
 ##
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8641776)
