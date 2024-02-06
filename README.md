@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Zakaria Hossain
 
 - 🌱 I'm a Software Engineer with 4+ years of experience in design, development and analysis of Backend (Spring Boot), Android (Kotlin/Java) and Flutter app development.
-- 🛠️ I’m currently learning Spring-Boot Microservice, Dagger Android and Flutter Bloc.
-- 💬 Ask me about Spring Boot (Java), (Kotlin) Android (Kotlin) and Flutter (Dart).
+- 🛠️ I’m currently learning Spring-Boot Microservice, Docker and Dagger Android.
+- 💬 Ask me about ```Spring Boot (Java)```, ```Android (Kotlin)``` and ```Flutter (Dart)```.
 - 🔎 Search ```zakaria5729``` in google to know more about me
 
 ##
