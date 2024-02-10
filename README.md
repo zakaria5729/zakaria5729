@@ -34,5 +34,27 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&bg_color=FFFFFF&icon_color=FFA500&title_color=FFA500&rank_icon=percentile&include_all_commits=true" alt="zakaria5729" /> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&hide=html,css,php,c&langs_count=3&border_radius=16&title_color=FFA500" alt="zakaria5729" />
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&rank_icon=percentile&icon_color=FFA500&title_color=FFA500&hide_border=true&include_all_commits=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&rank_icon=percentile&icon_color=FFA500&title_color=FFA500&include_all_commits=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture> &nbsp;&nbsp; <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&hide_border=true&langs_count=3&border_radius=16&title_color=FFA500&theme=dark&hide=html,css,php,c"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&langs_count=3&border_radius=16&title_color=FFA500&hide=html,css,php,c"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 ##
 <img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Profile+Views:&color=orange&style=for-the-badge" alt="zakaria5729" />
