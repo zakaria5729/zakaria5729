@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Zakaria Hossain
+###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> Hi, I'm Zakaria Hossain
 
 - 🌱 I'm a Software Engineer with 4+ years of experience in design, development and analysis of Backend (Spring Boot), Android (Kotlin/Java) and Flutter app development.
 - 🛠️ I’m currently learning Spring-Boot Microservice, Docker and Dagger Android.
@@ -21,7 +21,7 @@
 <a href="https://www.postman.com" target="_blank"> <img height="36" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></a>
 <a href="https://www.linux.org" target="_blank"> <img height="39" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>
 
-### Find me at
+### Connect with me
 [![Github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&link=https://github.com/zakaria5729)](https://github.com/zakaria5729)
 [![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logoColor=white&color=blue&logo=linkedin&link=https://www.linkedin.com/in/zakaria5729)](https://www.linkedin.com/in/zakaria5729)
 [![Stackoverflow](https://img.shields.io/badge/-stackoverflow-oarnge?style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange&link=https://stackoverflow.com/users/8641776)](https://stackoverflow.com/users/8641776)
@@ -32,9 +32,9 @@
 ##
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8641776)
 
-[![Zakaria's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&hide_border=true&&icon_color=FFA500&title_color=FFA500&bg_color=12181B&rank_icon=percentile&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-dark-mode-only)
-[![Zakaria's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&icon_color=FFA500&title_color=FFA500&rank_icon=percentile&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-light-mode-only) 
-&nbsp;&nbsp;   [![Zakaria's Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&langs_count=3&border_radius=16&hide_border=true&text_bold=true&title_color=FFA500&bg_color=12181B&hide=html,css,php,c&theme=dark#gh-dark-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-dark-mode-only)
-[![Zakaria's Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&langs_count=3&border_radius=16&text_bold=true&title_color=FFA500&hide=html,css,php,c&theme=default#gh-light-mode-only)](https://github.com/zakaria5729/github-readme-langs_count#gh-light-mode-only)
+[![Zakaria's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&hide_border=true&&icon_color=FFA500&title_color=FFA500&bg_color=12181B&rank_icon=percentile&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-dark-mode-only)
+[![Zakaria's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&icon_color=FFA500&title_color=FFA500&rank_icon=percentile&include_all_commits=true&count_private=true&theme=default#gh-light-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-light-mode-only) 
+&nbsp;&nbsp;   [![Zakaria's Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&langs_count=3&border_radius=16&hide_border=true&text_bold=true&title_color=FFA500&bg_color=12181B&include_all_commits=true&count_private=true&hide=html,css,php,c&theme=dark#gh-dark-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-dark-mode-only)
+[![Zakaria's Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&langs_count=3&border_radius=16&text_bold=true&title_color=FFA500&include_all_commits=true&count_private=true&hide=html,css,php,c&theme=default#gh-light-mode-only)](https://github.com/zakaria5729/github-readme-langs_count#gh-light-mode-only)
 
 <img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Profile+Views:&color=red&style=for-the-badge" alt="zakaria5729" />
