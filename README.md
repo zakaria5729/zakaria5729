@@ -37,4 +37,9 @@
 &nbsp;&nbsp;   [![Zakaria's Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&langs_count=3&border_radius=16&hide_border=true&text_bold=true&title_color=FFA500&hide=html,css,php,c&theme=dark#gh-dark-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-dark-mode-only)
 [![Zakaria's Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&langs_count=3&border_radius=16&text_bold=true&title_color=FFA500&hide=html,css,php,c&theme=default#gh-light-mode-only)](https://github.com/zakaria5729/github-readme-langs_count#gh-light-mode-only)
 
+[![Zakaria's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&hide_border=true&&icon_color=FFA500&title_color=FFA500&rank_icon=percentile&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-dark-mode-only)
+[![Zakaria's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&icon_color=FFA500&title_color=FFA500&rank_icon=percentile&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-light-mode-only) 
+&nbsp;&nbsp;   [![Zakaria's Top Languages-Dark](https://github-readme-streak-stats.herokuapp.com?user=nabilfsd&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-dark-mode-only)
+[![Zakaria's Top Languages-Light](https://github-readme-streak-stats.herokuapp.com?user=nabilfsd&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/zakaria5729/github-readme-langs_count#gh-light-mode-only)
+
 <img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Profile+Views:&color=red&style=for-the-badge" alt="zakaria5729" />
