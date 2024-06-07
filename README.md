@@ -1,9 +1,9 @@
 ###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> Hi, I'm <a href="https://github.com/zakaria5729"> Zakaria Hossain </a>
 
 - 🌱 I'm a Software Engineer with 4+ years of experience in design, development and analysis of Backend (Spring Boot), Android (Kotlin/Java) and Flutter app development.
-- 🛠️ I’m currently learning Spring-Boot Microservice, Docker and Dagger Android.
-- 💬 Ask me about ```Spring Boot (Java)```, ```Android (Kotlin)``` and ```Flutter (Dart)```.
-- 🔎 Search ```zakaria5729``` in google to know more about me
+- 🛠️ I’m currently learning Spring-Boot ``Microservice`` and ``Database``.
+- 💬 Ask me about **Spring Boot** (Java), **Database** (RDBMS), **Android** (Kotlin) and **Flutter** (Dart).
+- 🔎 Search ``zakaria5729`` in google to know more about me
 
 ##
 ### Tools & Technologies
@@ -18,7 +18,7 @@
 <a href="https://firebase.google.com" target="_blank"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" /></a>
 <a href="https://www.sqlite.org" target="_blank"> <img height="36" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Sqlite" /></a>
 <a href="https://git-scm.com" target="_blank"> <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" /></a>
-<a href="https://www.postman.com" target="_blank"> <img height="36" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></a>
+<a href="https://www.docker.com" target="_blank"> <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" /></a>
 <a href="https://www.linux.org" target="_blank"> <img height="39" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>
 
 ### Connect with me
@@ -28,6 +28,7 @@
 [![Twitter](https://img.shields.io/badge/-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=blue&link=https://twitter.com/zakaria5729)](https://twitter.com/zakaria5729)
 [![Quora](https://img.shields.io/badge/-quora-maroon?style=for-the-badge&logoColor=white&color=maroon&logo=quora&https://www.quora.com/profile/Zakaria-Hossain-8)](https://www.quora.com/profile/Zakaria-Hossain-8)
 [![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium&logoColor=white&color=black&link=https://medium.com/@zakaria5729)](https://medium.com/@zakaria5729)
+[![Facebook](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&color=blue&link=https://www.facebook.com/zakaria5729)](https://www.facebook.com/zakaria5729)
 
 ##
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8641776)
