@@ -22,7 +22,6 @@
 <a href="https://www.linux.org" target="_blank"> <img height="39" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>
 
 ### Connect with me
-[![Github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&link=https://github.com/zakaria5729)](https://github.com/zakaria5729)
 [![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logoColor=white&color=blue&logo=linkedin&link=https://www.linkedin.com/in/zakaria5729)](https://www.linkedin.com/in/zakaria5729)
 [![Stackoverflow](https://img.shields.io/badge/-stackoverflow-oarnge?style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange&link=https://stackoverflow.com/users/8641776)](https://stackoverflow.com/users/8641776)
 [![Twitter](https://img.shields.io/badge/-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=blue&link=https://twitter.com/zakaria5729)](https://twitter.com/zakaria5729)
