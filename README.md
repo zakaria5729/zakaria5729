@@ -28,6 +28,7 @@
 [![Quora](https://img.shields.io/badge/-quora-maroon?style=for-the-badge&logoColor=white&color=maroon&logo=quora&https://www.quora.com/profile/Zakaria-Hossain-8)](https://www.quora.com/profile/Zakaria-Hossain-8)
 [![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium&logoColor=white&color=black&link=https://medium.com/@zakaria5729)](https://medium.com/@zakaria5729)
 [![Facebook](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&color=blue&link=https://www.facebook.com/zakaria5729)](https://www.facebook.com/zakaria5729)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zakariahossain.cse@gmail.com)](mailto:zakariahossain.cse@gmail.com)
 
 ##
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8641776)
