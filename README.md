@@ -1,8 +1,8 @@
 ###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> Hi, I'm <a href="https://github.com/zakaria5729"> Zakaria Hossain </a>
 
 - Software Engineer with 𝟰+ 𝘆𝗲𝗮𝗿𝘀 of experience in 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (Spring Boot, RDBMS) & 𝗠𝗼𝗯𝗶𝗹𝗲 𝗔𝗽𝗽 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (Android, Flutter)
-- 🛠️ Currently deep diving into Microservices (Spring Boot) and Database (RDBMS)
 - 💬 Ask me about **Backend Development** (Spring Boot, RDBMS) and **Mobile App Development** (Android, Flutter)
+- 🛠️ Currently deep diving into Microservices (Spring Boot) and Database (RDBMS)
 - 🔎 Search ``zakaria5729`` in google to know more about me
 
 ##
