@@ -1,7 +1,7 @@
 ###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> Hi, I'm <a href="https://github.com/zakaria5729"> Zakaria Hossain </a>
 
 - 💻 Software Engineer with **5+ years** of experience in:
-  - 📱 **App** Development** (Android, Flutter)
+  - 📱 **App** Development (Android, Flutter)
   - 🌐 **Backend** Development (Spring Boot, RDBMS)
 - 💬 Discuss with me about Spring Boot, RDBMS, Android and Flutter
 - 🌱 Currently learning **Go**-lang and Database **Optimization**
