@@ -2,7 +2,7 @@
 
 - Software Engineer with 𝟓+ 𝘆𝗲𝗮𝗿𝘀 of experience in 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (Spring Boot, RDBMS) & 𝗠𝗼𝗯𝗶𝗹𝗲 𝗔𝗽𝗽 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (Android, Flutter)
 - 💬 Ask me about **Backend Development** (Spring Boot, RDBMS) and **Mobile App Development** (Android, Flutter)
-- 🛠️ Currently deep diving into Microservices (Spring Boot) and Database (RDBMS)
+- 🛠️ Currently learning Go-Lang and Database optimization (RDBMS)
 - 🔎 Search <a href="https://www.google.com/search?q=zakaria5729">zakaria5729</a> in google to know more about me
 
 ##
