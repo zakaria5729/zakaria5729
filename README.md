@@ -1,8 +1,8 @@
 ###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"> Hi, I'm <a href="https://github.com/zakaria5729"> Zakaria Hossain </a>
 
 - 💻 Software Engineer with **6+ years** of experience in:
-  - 📱 **App** Development (Android, Flutter)
-  - 🌐 **Backend** Development (Spring Boot, RDBMS)
+   - 👉 **App** Development (Android, Flutter)
+   - 👉 **Backend** Development (Spring Boot, RDBMS)
 - 💬 Discuss with me about Spring Boot, RDBMS, Android and Flutter
 - 🌱 Currently learning **Go**-lang and Database **Optimization**
 - 🔍 Search [zakaria5729 on Google](https://www.google.com/search?q=zakaria5729) to know more about me
@@ -11,6 +11,7 @@
 ### Tools & Technologies
 <a href="https://www.java.com" target="_blank"> <img height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></a>
 <a href="https://kotlinlang.org" target="_blank"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" /></a>
+<a href="https://go.dev" target="_blank"> <img height="33" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" alt="Go-lang" /></a>
 <a href="https://dart.dev" target="_blank"><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" /></a>
 <a href="https://www.android.com" target="_blank"><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" /></a>
@@ -35,8 +36,9 @@
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8641776)
 
 [![Zakaria's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&hide_border=true&title_color=FFA500&bg_color=12181B&rank_icon=percentile&count_private=true&include_all_commits=true&show=prs_merged_percentage&theme=dark#gh-dark-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-dark-mode-only)
-[![Zakaria's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&title_color=FFA500&rank_icon=percentile&count_private=true&include_all_commits=true&show=prs_merged_percentage&theme=default#gh-light-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-light-mode-only) 
+[![Zakaria's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zakaria5729&show_icons=true&border_radius=16&line_height=27&title_color=FFA500&rank_icon=percentile&count_private=true&include_all_commits=true&show=prs_merged_percentage&theme=default#gh-light-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-light-mode-only)
 &nbsp;&nbsp;   [![Zakaria's Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&langs_count=4&border_radius=16&hide_border=true&text_bold=true&title_color=FFA500&bg_color=12181B&include_all_commits=true&count_private=true&hide=html,css,php,c&theme=dark#gh-dark-mode-only)](https://github.com/zakaria5729/github-readme-stats#gh-dark-mode-only)
 [![Zakaria's Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria5729&langs_count=4&border_radius=16&text_bold=true&title_color=FFA500&include_all_commits=true&count_private=true&hide=html,css,php,c&theme=default#gh-light-mode-only)](https://github.com/zakaria5729/github-readme-langs_count#gh-light-mode-only)
-
+      
+##
 <img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Total+Profile+Views:&color=red&style=for-the-badge" alt="zakaria5729" height="36" />
