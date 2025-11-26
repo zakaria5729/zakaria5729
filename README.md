@@ -43,4 +43,4 @@
    
       
 ##
-<img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Total+Profile+Views:&color=red&style=for-the-badge" alt="zakaria5729" height="36" />
+<img src="https://komarev.com/ghpvc/?username=zakaria5729&label=Total+Profile+Visited:&color=red&style=for-the-badge" alt="zakaria5729" height="36" />
