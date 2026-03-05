@@ -28,10 +28,10 @@
 ### Connect with me
 [![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logoColor=white&color=blue&logo=linkedin&link=https://www.linkedin.com/in/zakaria5729)](https://www.linkedin.com/in/zakaria5729)
 [![Stackoverflow](https://img.shields.io/badge/-stackoverflow-oarnge?style=for-the-badge&logo=stackoverflow&logoColor=white&color=orange&link=https://stackoverflow.com/users/8641776)](https://stackoverflow.com/users/8641776)
-[![Twitter](https://img.shields.io/badge/-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=blue&link=https://twitter.com/zakaria5729)](https://twitter.com/zakaria5729)
-[![Quora](https://img.shields.io/badge/-quora-maroon?style=for-the-badge&logoColor=white&color=maroon&logo=quora&https://www.quora.com/profile/Zakaria-Hossain-8)](https://www.quora.com/profile/Zakaria-Hossain-8)
 [![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium&logoColor=white&color=black&link=https://medium.com/@zakaria5729)](https://medium.com/@zakaria5729)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white&color=orange&link=https://zakaria5729.substack.com)](https://zakaria5729.substack.com)
+[![Twitter](https://img.shields.io/badge/-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=blue&link=https://twitter.com/zakaria5729)](https://twitter.com/zakaria5729)
+[![Quora](https://img.shields.io/badge/-quora-maroon?style=for-the-badge&logoColor=white&color=maroon&logo=quora&https://www.quora.com/profile/Zakaria-Hossain-8)](https://www.quora.com/profile/Zakaria-Hossain-8)
 [![Facebook](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&color=blue&link=https://www.facebook.com/zakaria5729)](https://www.facebook.com/zakaria5729)
 
 ##
