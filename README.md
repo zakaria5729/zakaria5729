@@ -4,8 +4,8 @@
    - 👉 **App** Development (Android, Flutter)
    - 👉 **Backend** Development (Spring Boot, Golang, RDBMS)
 - 💬 Discuss with me about Spring Boot, Golang, RDBMS, Android and Flutter
-- 🌱 Currently learning **Go**-lang and Database **Optimization**
-- 🌱 Currently working on **Go**-lang based e-commerce project (api)
+- 🌱 Currently learning **Go**lang and Database **Optimization**
+- 🌱 Currently working on **Go**lang based e-commerce project (api)
 - 🔍 Search [zakaria5729 on Google](https://www.google.com/search?q=zakaria5729) to know more about me
 
 ##
